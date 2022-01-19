@@ -1,5 +1,11 @@
 # recriar-site-para-react
 tutorial https://youtu.be/3I9xv-t42Q4
+recriar uma landinpage feita em html-css para um projeto react com rotas
+landingpage w3schooll
+https://www.w3schools.com/bootstrap/trybs_theme_company_full.htm
+
+projeto em react com Browser com rotas
+https://ruben-comapany.netlify.app/
 
 # ep2 convertendo HTML para JSX
 instalar 
