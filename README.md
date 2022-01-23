@@ -7,6 +7,7 @@ https://www.w3schools.com/bootstrap/trybs_theme_company_full.htm
 projeto em react com Browser com rotas
 https://ruben-comapany.netlify.app/
 
+![plot](./print.jpg)
 # ep2 convertendo HTML para JSX
 instalar 
 ```
